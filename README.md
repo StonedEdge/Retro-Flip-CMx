@@ -1,7 +1,10 @@
-# Retro-Flip-CM5
-Stay tuned... dual screen flip handheld? Or something like that. Upgrades over the Retro Lite CM5 will include:
+<h1 align="center">Retro-Flip-CM5</h1>
 
-![Retro Flip CM5 teaser](https://raw.githubusercontent.com/StonedEdge/Retro-Flip-CM5/af896ec8e84569ecdf4d3d5a0becb601d0a26708/CAD/CM5%20Flip.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StonedEdge/Retro-Flip-CM5/af896ec8e84569ecdf4d3d5a0becb601d0a26708/CAD/CM5%20Flip.gif" width="500" />
+</p>
+
+Stay tuned... dual screen flip handheld? Or something like that. Upgrades over the Retro Lite CM5 will include:
 
 - Analog triggers via RP2350B and hall sensors
 - BQ25792 with dual power path support for VBUS input (or maybe just keep using BQ24292i)
