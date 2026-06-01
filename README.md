@@ -1,4 +1,4 @@
-<h1 align="center">Retro-Flip-CM5</h1>
+<h1 align="center">Retro-Flip-CMx</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/StonedEdge/Retro-Flip-CM5/af896ec8e84569ecdf4d3d5a0becb601d0a26708/CAD/CM5%20Flip.gif" width="500" />
@@ -19,4 +19,4 @@ Stay tuned... dual screen flip handheld? Or something like that. Upgrades over t
 - Blackberry 8250 finger IR touchpad
 - Hotkeys
 - Gyro
-- RK3588 Compute Module
+- RK3588 Compute Module or similar 
